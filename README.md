@@ -81,7 +81,7 @@ Sistema de visión artificial en **Python + MediaPipe + Arduino**, que identific
 ## 📫 Contacto
 
 📧 **Correo:** pmacajol@gmail.com 
-💼 **LinkedIn:** [[linkedin.com/in/pedromacajol](https://linkedin.com/in/pedromacajol](https://www.linkedin.com/in/pedro-macajol-519095257/))  
+💼 **LinkedIn:** [https://www.linkedin.com/in/pedro-macajol-519095257/)  
 🌐 **Portafolio Web:** *(en desarrollo)*  
 
 ---
