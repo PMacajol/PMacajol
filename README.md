@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Pedro Macajol
 
-🎓 **Ingeniero en formación en Sistemas y Ciencias de la Computación**  
-💼 **Desarrollador Web Full Stack | Cloud | DevOps | Seguridad en Sistemas**  
+🎓 **Ingenie en Sistemas y Ciencias de la Computación**  
+💼 **Desarrollador | Cloud | DevOps | Seguridad en Sistemas**  
 📍 Guatemala
 
 ---
