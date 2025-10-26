@@ -21,7 +21,7 @@ Aspiro a formar parte de un **equipo dinámico** que valore el crecimiento profe
 ☁️ **Despliegue:** Implementado en **Azure App Services**  
 ⚙️ **Backend:** APIs desarrolladas con **FastAPI**  
 🗄️ **Base de datos:** MysqlServer  
-🌍 **Frontend:** FastApi
+🌍 **Frontend:** Next.js (React Framework), TypeScript, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+).
 🔐 **Autenticación y seguridad:** JWT + OAuth2  
 📦 **DevOps:** CI/CD configurado con GitHub Actions y despliegue automatizado en Azure  
 
@@ -80,8 +80,8 @@ Sistema de visión artificial en **Python + MediaPipe + Arduino**, que identific
 
 ## 📫 Contacto
 
-📧 **Correo:** pedro.macajol@example.com  
-💼 **LinkedIn:** [linkedin.com/in/pedromacajol](https://linkedin.com/in/pedromacajol)  
+📧 **Correo:** pmacajol@gmail.com 
+💼 **LinkedIn:** [[linkedin.com/in/pedromacajol](https://linkedin.com/in/pedromacajol](https://www.linkedin.com/in/pedro-macajol-519095257/))  
 🌐 **Portafolio Web:** *(en desarrollo)*  
 
 ---
